@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Expected Kill Count
+Helps predict remaining KC for a goal
